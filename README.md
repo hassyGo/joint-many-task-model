@@ -1,4 +1,4 @@
-# A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks, ICLR 2017
+# A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks, EMNLP 2017
 
 Multiple Different Natural Language Processing Tasks in a Single Deep Model. This, in my opinion, is indeed a very good
 paper. It demonstrates how a neural model can be trained from low-level to higher level in a fashion such that lower layers
